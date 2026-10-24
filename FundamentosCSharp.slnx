@@ -7,4 +7,6 @@
   <Project Path="Ejercicio06_ClasificarTrianguloPorLados/Ejercicio06_ClasificarTrianguloPorLados.csproj" Id="ec9ef039-b4e6-4de8-ad82-9cb63a13f637" />
   <Project Path="Ejercicio07_MostrarNumerosDel1Al100/Ejercicio07_MostrarNumerosDel1Al100.csproj" Id="de6c2a8f-a7d0-4691-bac1-74f8b1fe9d99" />
   <Project Path="Ejercicio08_MostrarNumerosDel100Al1/Ejercicio08_MostrarNumerosDel100Al1.csproj" Id="db2229ec-f944-4594-8717-8cae49caed05" />
+  <Project Path="Ejercicio09_MostrarNumerosParesDel1Al100/Ejercicio09_MostrarNumerosParesDel1Al100.csproj" Id="b0d96ac8-2eac-4d8a-87b1-8aaa82f48c57" />
+  <Project Path="Ejercicio10_SumarNumerosDel1Al100/Ejercicio10_SumarNumerosDel1Al100.csproj" Id="e08ee7d7-1831-407f-abd3-878ea9a18bbc" />
 </Solution>
