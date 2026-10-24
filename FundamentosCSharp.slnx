@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Ejercicio01_MayorDeEdad/Ejercicio01_MayorDeEdad.csproj" />
+  <Project Path="Ejercicio02_PromedioCalificaciones/Ejercicio02_PromedioCalificaciones.csproj" />
+  <Project Path="Ejercicio03_NumeroMenor/Ejercicio03_NumeroMenor.csproj" />
 </Solution>
