@@ -1,0 +1,41 @@
+[33mcommit 78cece76d4725fe1d86bc924ffb56f571e7b252c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 21:30:04 2026 -0400
+
+    feat(ejercicio05): implement positive, negative or zero check
+
+[33mcommit 622fc754951020d1d7785f2fc5edd17eb5bccd7c[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 21:03:47 2026 -0400
+
+    feat(ejercicio04): add even or odd number checker
+
+[33mcommit b60d59262fca8aa3c7a1160695b2c85b4dcf7fb0[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 20:59:48 2026 -0400
+
+    feat(ejercicio03): implement logic to find the lowest number
+
+[33mcommit 79f7af9270ffa2a92104ca7141aac9bf5b5eaf54[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 20:53:27 2026 -0400
+
+    fix(ejercicio02): update grade average logic with missing code
+
+[33mcommit a407d86bd7a3c88c4c81366d277ad972cfc6f338[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 20:51:24 2026 -0400
+
+    feat(ejercicio02): add grade average calculation console app
+
+[33mcommit 867ba880ea35d1faf99687aa662e930f4e754b2e[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 20:43:11 2026 -0400
+
+    Add project files.
+
+[33mcommit fa30e99210d3a604e54f4508b34f69f09fa2228d[m
+Author: Jeico Arias <Ariasbritojeico7@gmail.com>
+Date:   Fri Oct 23 20:43:08 2026 -0400
+
+    Add .gitattributes and .gitignore.

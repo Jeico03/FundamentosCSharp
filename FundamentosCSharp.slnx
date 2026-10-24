@@ -4,4 +4,6 @@
   <Project Path="Ejercicio03_NumeroMenor/Ejercicio03_NumeroMenor.csproj" />
   <Project Path="Ejercicio04_ParImpar/Ejercicio04_ParImpar.csproj" />
   <Project Path="Ejercicio05_PositivoNegativo/Ejercicio05_PositivoNegativo.csproj" Id="82da13d0-4c17-47c1-b482-310e06d939d4" />
+  <Project Path="Ejercicio06_ClasificarTrianguloPorLados/Ejercicio06_ClasificarTrianguloPorLados.csproj" Id="ec9ef039-b4e6-4de8-ad82-9cb63a13f637" />
+  <Project Path="Ejercicio07_MostrarNumerosDel1Al100/Ejercicio07_MostrarNumerosDel1Al100.csproj" Id="de6c2a8f-a7d0-4691-bac1-74f8b1fe9d99" />
 </Solution>
