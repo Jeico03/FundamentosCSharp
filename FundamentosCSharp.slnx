@@ -9,4 +9,7 @@
   <Project Path="Ejercicio08_MostrarNumerosDel100Al1/Ejercicio08_MostrarNumerosDel100Al1.csproj" Id="db2229ec-f944-4594-8717-8cae49caed05" />
   <Project Path="Ejercicio09_MostrarNumerosParesDel1Al100/Ejercicio09_MostrarNumerosParesDel1Al100.csproj" Id="b0d96ac8-2eac-4d8a-87b1-8aaa82f48c57" />
   <Project Path="Ejercicio10_SumarNumerosDel1Al100/Ejercicio10_SumarNumerosDel1Al100.csproj" Id="e08ee7d7-1831-407f-abd3-878ea9a18bbc" />
+  <Project Path="Ejercicio11_SumarNumerosImparesDel1Al100/Ejercicio11_SumarNumerosImparesDel1Al100.csproj" Id="8dfb8197-e57f-4740-8338-76a1c175928b" />
+  <Project Path="Ejercicio12_SumarNumerosHastaIngresarNegativo/Ejercicio12_SumarNumerosHastaIngresarNegativo.csproj" Id="77466a43-4da8-43c4-96e2-2dacccf9444d" />
+  <Project Path="Ejercicio13_CalculadoraConMenuRepetitivo/Ejercicio13_CalculadoraConMenuRepetitivo.csproj" Id="37e9c720-7ba6-4b7c-aefd-1b97d568c455" />
 </Solution>
