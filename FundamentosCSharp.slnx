@@ -12,4 +12,5 @@
   <Project Path="Ejercicio11_SumarNumerosImparesDel1Al100/Ejercicio11_SumarNumerosImparesDel1Al100.csproj" Id="8dfb8197-e57f-4740-8338-76a1c175928b" />
   <Project Path="Ejercicio12_SumarNumerosHastaIngresarNegativo/Ejercicio12_SumarNumerosHastaIngresarNegativo.csproj" Id="77466a43-4da8-43c4-96e2-2dacccf9444d" />
   <Project Path="Ejercicio13_CalculadoraConMenuRepetitivo/Ejercicio13_CalculadoraConMenuRepetitivo.csproj" Id="37e9c720-7ba6-4b7c-aefd-1b97d568c455" />
+  <Project Path="Ejercicio14_MostrarParesEntreDosNumeros/Ejercicio14_MostrarParesEntreDosNumeros.csproj" Id="0b7f1090-c043-403d-bfd5-e87981891335" />
 </Solution>
